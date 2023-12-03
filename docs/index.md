@@ -5,11 +5,11 @@ hide:
 
 # 🗃️ SOMMAIRE
 
-* 🧩 [PUZZLES]()
+* 🧩 [PUZZLES](puzzles)
 
-* 🤔 [DÉFIS]()
+* 🤔 [DÉFIS](defis)
 
-* 📑 [ENTRAÎNEMENTS / DEVOIRS]()
+* 📑 [ENTRAÎNEMENTS / DEVOIRS](entrainements-devoirs)
 
 <br /><br />
 
