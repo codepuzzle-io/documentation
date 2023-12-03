@@ -3,7 +3,7 @@ hide:
   - footer
 ---
 
-# PRÉSENTATION
+# DÉFIS
 
 ## 1
 

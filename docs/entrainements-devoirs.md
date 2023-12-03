@@ -3,7 +3,7 @@ hide:
   - footer
 ---
 
-# PRÉSENTATION
+# ENTRAÎNEMENTS / DEVOIRS
 
 ## 1
 
