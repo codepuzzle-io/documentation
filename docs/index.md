@@ -13,6 +13,6 @@ hide:
 
 <br /><br />
 
-:fontawesome-solid-arrow-left: retour sur le [**Code Puzzle**](https://www.codepuzzle.io/).
+:fontawesome-solid-arrow-left: retour sur [**Code Puzzle**](https://www.codepuzzle.io/).
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
