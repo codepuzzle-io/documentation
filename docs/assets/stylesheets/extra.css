@@ -100,9 +100,13 @@ body {
 }
 /* /CODE */
 
+img {
+    border-radius:5px;
+}
+
 p img {
     border-radius:5px;
-    border: solid #cbcbcc 10px;
+    border: solid #f0f0f0 10px;
 }
 
 video {
