@@ -5,7 +5,5 @@ hide:
 
 # DÉFIS
 
-## 1
-
-## 2
+*~ en cours de rédaction ~*
 

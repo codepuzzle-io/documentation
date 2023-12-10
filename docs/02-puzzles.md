@@ -5,7 +5,5 @@ hide:
 
 # PUZZLES
 
-## 1
-
-## 2
+*~ en cours de rédaction ~*
 
