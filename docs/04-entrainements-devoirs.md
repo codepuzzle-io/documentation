@@ -5,7 +5,7 @@ hide:
 
 # ENTRAÎNEMENTS / DEVOIRS
 
-## 1. Créer un nouvel entraînement / devoir [enseignant]
+## 1. Nouvel entraînement / devoir [enseignant]
 Pour créer un nouvel entraînement / devoir: [www.codepuzzle.io/devoir-creer](https://www.codepuzzle.io/devoir-creer)
 
 Seul le champ "consignes" est obligatoire.
@@ -66,15 +66,23 @@ Depuis la page "supervision", l'enseignant peut suivre les travaux des élèves 
 
 ![](assets/images/devoirs/06.png)
 
-## 8
+## 7. Console de l'enseignant [enseignant]
+
+Au fur et à mesure que les élèves rendent leurs travaux, ceux-ci apparaissent dans la console de l'enseignant.
+
 ![](assets/images/devoirs/07.png)
 
-## 9
+
+## 8. Évaluation [enseignant]
+
+La console enseignant permet de voir le code de l'élève, de l'exécuter (seul ou en y ajoutant le code de l'enseignant) et de saisir des commentaires. L'enseignant peut aussi exécuter seulement le code enseignant s'il souhaite faire des tests.
+
 ![](assets/images/devoirs/08.png)
 
-## 10
+## 9. Impression des comptes-rendus [enseignant]
+
+Une fois les évaluations terminées, l'enseignant peut imprimer l'ensemble des comptes-rendus (une page par élève). Chaque élève reçoit ainsi une feuille qui contient le sujet, son code, une solution possible (si elle a été renseignée par l'enseignant) et les commentaires de l'enseignant.
+
 ![](assets/images/devoirs/09.png)
 
-## 11
-![](assets/images/devoirs/10.png)
 
