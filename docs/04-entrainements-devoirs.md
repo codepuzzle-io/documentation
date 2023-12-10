@@ -27,3 +27,31 @@ Les consignes peuvent être saisies en Markdown / Latex.
 ## 2
 ![](assets/images/devoirs/02.png)
 
+## 3
+![](assets/images/devoirs/03.png)
+
+
+## 4
+![](assets/images/devoirs/04.png)
+
+## 5
+![](assets/images/devoirs/05.png)
+
+## 6
+![](assets/images/devoirs/06.png)
+
+## 7
+![](assets/images/devoirs/07.png)
+
+## 8
+![](assets/images/devoirs/08.png)
+
+## 9
+![](assets/images/devoirs/09.png)
+
+## 10
+![](assets/images/devoirs/10.png)
+
+## 11
+![](assets/images/devoirs/11.png)
+
