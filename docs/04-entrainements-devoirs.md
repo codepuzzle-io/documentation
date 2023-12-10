@@ -16,13 +16,13 @@ Les consignes peuvent être saisies en Markdown / Latex.
 **Code élève**<br />
 Le code saisi dans ce champ apparaîtra dans l'éditeur de l'élève. 
 
-### Code enseignant
+**Code enseignant**<br />
 Le code saisi dans ce champ ne sera pas visible par l'élève. Il peut servir pour l'évaluation. Cela peut être des assertions, du code qui s'appuie sur les bibliothèques Inspect ou AST ou tout code utile pour l'enseignant. Ce code peut être exécuté lors de l'évaluation, seul ou ajouté au code de l'élève. Lors de l'évaluation, l'enseignant pourra modifier ce champ.
 
-### Solution possible
+**Solution possible**<br />
 Le code saisi dans ce champ ne sera pas visible par l'élève. Il peut contenir une solution possible au problème posé. 
 
-### Options
+**Options**<br />
 Les options permettent de cacher le chronomètre ou la console sur la page de l'élève.
 
 
