@@ -102,6 +102,8 @@ body {
 
 img {
     border-radius:5px;
+    background-color:silver;
+    padding:5px;
 }
 
 video {
