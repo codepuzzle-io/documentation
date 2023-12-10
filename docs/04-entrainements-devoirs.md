@@ -41,34 +41,40 @@ C'est aussi sur cette page que les travaux des élèves apparaîtront et qu'ils 
 
 ![](assets/images/devoirs/02.png)
 
-## 3. Identifiant de l'élève et consignes générales  [élève]
+## 3. Identifiant et consignes générales  [élève]
 
 Le lien fourni aux élèves les amène sur cette page. L'élève saisit un identifiant, lit les consignes générales et les valide. 
 
 ![](assets/images/devoirs/03.png)
 
 
-## 4.  [enseignant]
+## 4. Espace de travail de l'élève [élève]
+
+Sur cette page, l'élève prend connaissance du sujet, écrit son code dans l'éditeur et l'exécute. Une fois le travail terminé, l'élève clique sur le bouton "rendre".
+
 ![](assets/images/devoirs/04.png)
 
-## 5
+## 5. Verrouillage de l'espace de travail de l'élève [élève]
+
+Si l'élève sort de son espace de travail, sa page se verrouille. Seul l'enseignant peut déverrouiller la page.
+
 ![](assets/images/devoirs/05.png)
 
-## 6
+## 6. Supervision des travaux en temps réel [enseignant]
+
+Depuis la page "supervision", l'enseignant peut suivre les travaux des élèves en temps réel et déverrouiller à distance des espaces de travail d'élèves. 
+
 ![](assets/images/devoirs/06.png)
 
-## 7
+## 8
 ![](assets/images/devoirs/07.png)
 
-## 8
+## 9
 ![](assets/images/devoirs/08.png)
 
-## 9
+## 10
 ![](assets/images/devoirs/09.png)
 
-## 10
-![](assets/images/devoirs/10.png)
-
 ## 11
-![](assets/images/devoirs/11.png)
+![](assets/images/devoirs/10.png)
 
