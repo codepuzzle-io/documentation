@@ -10,12 +10,10 @@ Pour créer un nouvel entraînement / devoir: [www.codepuzzle.io/devoir-creer](h
 
 Seul le champ "consignes" est obligatoire.
 
-**Consignes**
-
+**Consignes**<br />
 Les consignes peuvent être saisies en Markdown / Latex.
 
-**Code élève**
-
+**Code élève**<br />
 Le code saisi dans ce champ apparaîtra dans l'éditeur de l'élève. 
 
 ### Code enseignant

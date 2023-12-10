@@ -100,9 +100,9 @@ body {
 }
 /* /CODE */
 
-img {
+p img {
     border-radius:5px;
-    border: solid silver 5px;
+    border: solid #FAFCFE 10px;
 }
 
 video {
