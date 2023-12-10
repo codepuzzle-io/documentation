@@ -32,6 +32,7 @@ Les options permettent de cacher le chronomètre ou la console sur la page de l'
 
 Après la création d'un nouvel entraînement / devoir, la page de la console de l'enseignant apparaît. L'adresse de cette page ne doit être connue que de l'enseignant.
 A partir de cette page, l'enseignant peut:
+
 * de prendre connaissance du code secret qui permet déverrouiller une page d'élève
 * de prendre connaissance du lien à distribuer aux élèves
 * de modifier l'entraînement / devoir
