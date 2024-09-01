@@ -19,9 +19,9 @@ hide:
 
 * 🤔 [DÉFIS](03-defis)
 
-* 📑 [EXERCICES (avec modanti-triche)](04-entrainements-devoirs)
+* 📑 [EXERCICES (avec mode anti-triche)](04-entrainements-devoirs)
 
-* 📑 [DEVOIRS (avec modanti-triche)](04-entrainements-devoirs)
+* 📑 [DEVOIRS (avec mode anti-triche)](04-entrainements-devoirs)
 
 
 
