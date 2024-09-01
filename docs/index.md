@@ -5,7 +5,13 @@ hide:
 
 # 🗃️ SOMMAIRE
 
+<br />
+
 🏷️ [PRÉSENTATION](01-presentation)
+
+🏷️ [CRÉATION et GESTION de CLASSES](01-presentation)
+
+<br />
 
 **Types d'activités**
 
@@ -18,7 +24,7 @@ hide:
 * 📑 [DEVOIRS (avec modanti-triche)](04-entrainements-devoirs)
 
 
-<br />
+
 
 :fontawesome-solid-arrow-left: retour sur [**Code Puzzle**](https://www.codepuzzle.io/).
 
